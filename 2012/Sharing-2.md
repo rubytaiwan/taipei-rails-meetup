@@ -3,6 +3,10 @@
 * 講者： Vincent
 * https://twitter.com/v1nc3ntlaw
 
+簡介：
+
+分享 T 客邦 目前的 scale 架構、perfomance tuning、work flow
+
 * 分享網站： http://www.techbang.com/
 * https://www.facebook.com/TKbang
 
