@@ -10,4 +10,4 @@ We'll talk about what softwares and services we're using to build PicCollage ser
 
 * 分享網站：http://pic-collage.com/
 
-* 投影片： 待補
+* 投影片： http://www.godfat.org/slide/2013-01-08-PicCollage.pdf
