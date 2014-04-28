@@ -13,7 +13,7 @@
 
 ## Rails Tuesday Sharing
 
-* 每個月舉辦一次
+* 不定期舉辦
 * 開放投稿
 * 開放 7 分鐘 Lightening Talk 投稿
 
