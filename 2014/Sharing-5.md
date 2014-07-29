@@ -16,7 +16,7 @@ AngularJS 是近來很熱門的 JavaScript Front-End MVC Framework ，雖然學�
 
 ###投影片
 
-待補
+https://speakerdeck.com/chitsaou/angularjs-rails-ajax-pitfalls-and-solutions
 
 # Lightening Talk
 
@@ -30,7 +30,3 @@ AngularJS 是近來很熱門的 JavaScript Front-End MVC Framework ，雖然學�
 ### 簡介
 
 想以做 [Angular option tree](http://leechsien.github.io/angular-option-tree/) 這個套件的經驗，分享如何打包，發佈，整合 Angular 套件進入 Rails pipeline 中使用，以及利用哪些工具完成這些事。
-
-###投影片
-
-待補
