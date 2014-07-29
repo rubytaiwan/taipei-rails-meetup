@@ -11,4 +11,4 @@
 
 ###投影片
 
-https://docs.google.com/presentation/d/1vMWc-4a6QDJ4Tz9CE29PddXlzmsHKxNjOJteKpC2pV0/edit#slide=id.g365a8212b_133
+https://speakerdeck.com/lulalala/activemerchant-shi-yong-yu-shi-zuo
