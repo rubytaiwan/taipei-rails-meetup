@@ -3,6 +3,7 @@
 ## PicCollage migration of its ‘likes’ feature
 
 * 講者： Fumin
+* https://github.com/fumin/
 
 ### 簡介
 
